@@ -18,9 +18,12 @@ Successive Estimation Solver is a Python program that allows users to input equa
 
 To use the Successive Estimation Solver:
 
-1. Run the program.
-2. Enter the coefficients of the equations as prompted.
-3. Follow the on-screen instructions to input the initial guess and view the solution iterations.
+1. Install Python (if not already installed). You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+2. Install numpy by running the following command in your terminal or command prompt:
+`pip install numpy`
+3. Run the program.
+4. Enter the coefficients of the equations as prompted.
+5. Follow the on-screen instructions to input the initial guess and view the solution iterations.
 
 ## License
 
