@@ -39,4 +39,4 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For any questions, feedback, or suggestions, please feel free to contact the developer at [yasser75894@gmail.com](yasser75894@gmail.com).
+For any questions, feedback, or suggestions, please feel free to contact the developer at [yasser75894@gmail.com](mailto:yasser75894@gmail.com).
